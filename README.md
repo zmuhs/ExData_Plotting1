@@ -1,3 +1,17 @@
+### As requested in the project, i have prepared and uploaded the related scripts and produced png files.
+
+plot1.R
+plot2.R
+plot3.R
+plot4.R
+
+plot1.png
+plot2.png
+plot3.png
+plot4.png
+
+
+
 ## Introduction
 
 This assignment uses data from
